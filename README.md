@@ -10,3 +10,6 @@ this is a section of no use added on local repo
 
 ## section 2
 this is yet another remote edit
+
+## section 3
+this is another edit local but in a new branch
